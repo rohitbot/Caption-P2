@@ -1,0 +1,13 @@
+{
+  "port": "4723",
+  "device": "local",
+  "platformName": "android",
+  "deviceName": "Pixel 4 API 33",
+  "app": "",
+  "udid": "emulator-5554",
+  "appPackage": "com.code2lead.kwad",
+  "appActivity": "com.code2lead.kwad.MainActivity",
+  "user_id": "",
+  "token": "",
+  "app_id": ""
+}
